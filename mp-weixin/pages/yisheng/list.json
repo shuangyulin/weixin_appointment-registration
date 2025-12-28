@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#43B3BE",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "医生",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

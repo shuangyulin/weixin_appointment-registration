@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#43B3BE",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "预约挂号",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
